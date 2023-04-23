@@ -1,2 +1,2 @@
-# Credit Card Transactions Fraud Detection
-https://www.kaggle.com/datasets/kartik2112/fraud-detection
+# Prudential Life Insurance
+https://www.kaggle.com/c/prudential-life-insurance-assessment
